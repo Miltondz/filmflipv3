@@ -30,13 +30,13 @@ import { getStorage, ref, uploadString, getDownloadURL } from 'firebase/storage'
 import { FirebaseError } from 'firebase/app';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyABB-JTuZ0PYCsOKeW1CwCyNitL9mOIrME",
-  authDomain: "flipmovie-d59ed.firebaseapp.com",
-  projectId: "flipmovie-d59ed",
-  storageBucket: "flipmovie-d59ed.appspot.com",
-  messagingSenderId: "607962781640",
-  appId: "1:607962781640:web:36f1cdbfbd50fde83a92fd",
-  measurementId: "G-W294SFPHTD"
+  apiKey: "xxxxxxxxxxxxxxxxxxxxxxxx",
+  authDomain: "xxxxxx.firebaseapp.com",
+  projectId: "xxxxxxxxx",
+  storageBucket: "xxxxxxxx.appspot.com",
+  messagingSenderId: "xx",
+  appId: "xxxxxx",
+  measurementId: "xxxxxxx"
 };
 
 const app = initializeApp(firebaseConfig);
